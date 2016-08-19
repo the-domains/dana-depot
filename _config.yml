@@ -1,4 +1,3 @@
-layout_spectrum: 0.7475420658010989
 typography_spectrum: 0.9765220049303025
 color:
   brandStrength: 0.8021705134306103
@@ -11,4 +10,6 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+layout_spectrum: 0.7475420658010989
 name: Dana Depot
+title: Dana Depot
