@@ -12,5 +12,9 @@ color:
     - '#493F0B'
 layout_spectrum: 0.7475420658010989
 name: Dana Depot
+navigation:
+  - name: Thabarwa Center
+    id: e83cb8c0-85d5-492d-8b5f-a2aad95dae54
+    type: content
 title: Dana Depot
 description: Where donors and donees meet
